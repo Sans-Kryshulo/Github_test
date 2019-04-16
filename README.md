@@ -2,5 +2,5 @@
 Welcome to my repos !!!
 Github the best
 Follover list:
-Command list:
+Our Git commands:
 // add your name
