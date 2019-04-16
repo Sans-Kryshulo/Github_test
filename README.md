@@ -4,5 +4,4 @@ Github the best
 Follover list:
 	ztsush
 	ztshat
-Our Git commands:
 // add your name
