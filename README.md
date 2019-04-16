@@ -4,4 +4,3 @@ Github the best
 Follover list:
 	ztsush
 	ztshat
-// add your name
