@@ -1,5 +1,5 @@
 # Github_test
 Welcome to my repos !!!
 Github the best
-Slave list:
+Follover list:
 // add your name
