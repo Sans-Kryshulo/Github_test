@@ -1,6 +1,6 @@
 # Github_test
 Welcome to my repos !!!
-Github the best
+«Social Coding» !!!
 Look to the manifest.txt
 Follover list:
 	ztsush
