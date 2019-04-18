@@ -1,5 +1,7 @@
 Just try to make GitHub project available
 
+0. Vocabulary: https://htmlacademy.ru/blog/81-git-and-github-glossary
+
 1. Basic rules for our working:
 
 https://chris.beams.io/posts/git-commit/
